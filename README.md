@@ -86,17 +86,27 @@ The clean reporting architecture generates **6 core pivot summaries** structured
 
 ---
 
+---
+
 ## 📸 Screenshots Included
-*Below are placeholders for the visual verifications taken from the final individual project workbooks:*
 
-### Clean vs Flagged Summary Sheet
-![Data Quality Summary Count](screenshots/dq_summary_count.png)
+*The following screenshots provide visual verification of the key project outputs generated during the data cleaning and analytics pipeline.*
 
-### Invalid Discount Audit Logs
-![Invalid Discount Summary Tab](screenshots/invalid_discount_summary.png)
+### Raw Dataset Preview
 
-### Regional Sales and Profit Pivot View (Sorted Descending)
-![Regional Sales Pivot Summary](screenshots/regional_sales_pivot.png)
+![Raw Dataset Preview](screenshots/raw_data_preview.png)
 
-### Lost Value Analytics (Anomalies by Region)
-![Anomalous Transactions Filtered View](screenshots/anomalies_pivot.png)
+### Cleaned Dataset Preview
+
+![Cleaned Dataset Preview](screenshots/cleaned_data_preview.png)
+
+### Sales and Profit by Category Pivot Summary
+
+![Sales and Profit by Category](screenshots/pivot_summary_1.png)
+
+### Anomalies by Region Pivot Summary
+
+![Anomalies by Region](screenshots/pivot_summary_2.png)
+
+
+---
